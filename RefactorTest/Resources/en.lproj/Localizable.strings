@@ -1,0 +1,7 @@
+/* Map strings */
+"select_location" = "Select a location";
+"error" = "Error";
+"ok" = "OK";
+
+/* Error messages */
+"no_result_found" = "No result found"; 

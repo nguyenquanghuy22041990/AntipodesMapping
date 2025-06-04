@@ -1,0 +1,51 @@
+{
+  "originHash" : "2a4ad801c053e5db7630ef322aee406ac8e2343eb9088c5ded5ae23f30d92e84",
+  "pins" : [
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "be9dbcc7b86811bc131539a20c6f9c2d3e56919f",
+        "version" : "2.9.1"
+      }
+    },
+    {
+      "identity" : "w3w-swift-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/what3words/w3w-swift-core.git",
+      "state" : {
+        "revision" : "5e81cb99e3424d0de58e5c3df12716b834a44685",
+        "version" : "1.1.3"
+      }
+    },
+    {
+      "identity" : "w3w-swift-voice-api",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/what3words/w3w-swift-voice-api.git",
+      "state" : {
+        "revision" : "fa5849ae926e1b5f85198ca3d4d52ae2c9446cd5",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "w3w-swift-wrapper",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:what3words/w3w-swift-wrapper.git",
+      "state" : {
+        "revision" : "3c01152aa316b7a9714f038b34a8adb4adeb7c4a",
+        "version" : "4.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
